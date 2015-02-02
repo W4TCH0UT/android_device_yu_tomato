@@ -40,7 +40,7 @@
 /* The SENSORS Module */
 static struct sensor_t sensor_list[] = {
 	/* Accelerometer */
-	{
+       	{
 		"MPU6880 3-axis Accelerometer",
 		"Invensense",
 		1,	/* hw/sw version */
